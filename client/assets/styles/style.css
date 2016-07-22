@@ -1,0 +1,8 @@
+.repoitem {
+  font-size: 18px;
+  cursor: pointer;
+  transition: ease 0.5s;
+}
+.repoitem:hover {
+  color: grey;
+}
